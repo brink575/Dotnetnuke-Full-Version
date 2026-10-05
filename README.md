@@ -230,4 +230,4 @@ This repository serves as the official landing page for DNN - DotNetNuke. The so
 **Get the most recent version of DNN - DotNetNuke today!**
 
 ---
-**Last updated:** 2026-10-05 06:41:08 UTC
+**Last updated:** 2026-10-05 15:42:59 UTC
